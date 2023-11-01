@@ -1,0 +1,13 @@
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.nav {
+  width: 100%;
+}
+.nav-items {
+  list-style-type: none;
+  gap: 40px;
+  padding: 0;
+}
